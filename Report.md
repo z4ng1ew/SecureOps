@@ -8,4 +8,11 @@
 
 - В репозитории пиров есть зарегистрированный gitlab-runner, что подтверждается запущенными и завершенными конвейерами в репозитории
 
+Добавил официальный репозиторий GitLab командой:
+curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash
+![alt text](image.png)
+
+
+
+
 - В репозитории пиров есть дамп виртуальной машины с зарегистрированным gitlab-runner
