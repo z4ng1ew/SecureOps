@@ -44,6 +44,11 @@
 ![alt text](IMG/pipeline_1.png)
 
 
+> ![alt text](IMG/image.png)
+
+*Дамп виртуальной машины с зарегистрированным gitlab-runner*
+
+
 
 ✅ GitLab Runner зарегистрирован
 
@@ -52,3 +57,5 @@
 ✅ Пайплайн успешно запущен и прошёл все стадии — все 4 джоба (build, unit test, lint, deploy) завершились со статусом Passed.
 
 ✅ Всё выполняется в репозитории  —  в Students_repo / spectrew / DO6_CICD.ID_356283-1, как и требуется по условию.
+
+✅ Дамп виртуальной машины с зарегистрированным gitlab-runner
